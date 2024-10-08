@@ -3,24 +3,24 @@
 
 PetPals is a software system designed to facilitate the adoption of pets from shelters and rescue organizations. This platform enables potential adopters to browse available pets, shelters to list adoptable pets, and donors to contribute to animal welfare efforts.
 
-**Features**
-1.Pet Management:
-  -List available pets for adoption, including details like name, age, and breed.
-  -Add or remove pets from the list of available pets.
-  
-2.Donation System:
-  -Handle both cash and item donations.
-  -Record donation details and provide options for donors to contribute.
-  
-3.Adoption Event Management:
-  -Manage adoption events, including registration of participants (shelters and adopters).
-  -List and retrieve upcoming events from the database.
-  
-4.Database Connectivity:
-  -Retrieve, update, and manage data for pets, donations, and events using SQL.
-  
-5.Exception Handling:
-  -Handle invalid inputs, null references, insufficient funds, file handling errors, and custom exceptions.
+**Features**:
+        1.Pet Management:
+          -List available pets for adoption, including details like name, age, and breed.
+          -Add or remove pets from the list of available pets.
+          
+        2.Donation System:
+          -Handle both cash and item donations.
+          -Record donation details and provide options for donors to contribute.
+          
+        3.Adoption Event Management:
+          -Manage adoption events, including registration of participants (shelters and adopters).
+          -List and retrieve upcoming events from the database.
+          
+        4.Database Connectivity:
+          -Retrieve, update, and manage data for pets, donations, and events using SQL.
+          
+        5.Exception Handling:
+          -Handle invalid inputs, null references, insufficient funds, file handling errors, and custom exceptions.
 
 
 **Project Structure**
